@@ -23,7 +23,7 @@
 ## Data Science Application Domains
 ### Healthcare,Finance,Marketing,E-commerce,Social media,Environmental science,Transportation,Education,Cybersecuruty,Government
 ## Correlation Vs. Causation
-### Correlaation refers to the statistical relationship between two or more variables.When two variables are correlated,it means that as one  variable changes, the other variable also cjanges in a predictable way
+### Correlaation refers to the statistical relationship between two or more variables.When two variables are correlated,it means that as one  variable changes, the other variable also changes in a predictable way
 ### Causation refers to the relationship between two variables where one variable directly affects the other variable
 ## Ethics in AI
 ### Bias and fairness, Transperancy and Explainability, Privacy and Data protection, Accountability and Responsability, Human values and Dignity
