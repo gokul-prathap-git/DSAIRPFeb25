@@ -2,16 +2,29 @@
 ## Artificial Intelligence
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
-### Perceptron
+### Turing Test(1950)
+### Godfather of AI - Geoffrey Hinton
+### Perceptron(1969)- known as artificial neuron
 ### Backpropagation
 ### AI Winter
 ### DARPA Grand Challenge 2005
 ### ImageNet 2012
-### 2024 Nobel Prize in Physics
-### Deepseek
+### 2024 Nobel Prize in Physics - John Hopfield & Geoffrey Hinton for their pioneering work in the development of artificial neural networks and thier applications in physics
+### Deepseek- An AI revolution from China
 ## Key Deciding Factors of Growth of AI
+### Advances in computing power
+### Data availability
+### Investment and funding
+### Talent and Education
+### Algorithmic innovations
 ## Data Science, Machine Learning and Artificial Intelligence
+### Data science is a field that extracts insights and knowledge from data using a combination of statistics,machine learning and domain expertise to drive informed decision-making
+### Machine learning is a subset of artificial intelligence that enables the computers to learn from data,identify patterns and make predictions or decisions without being explicitly programmed
 ## Data Science Application Domains
+### Healthcare,Finance,Marketing,E-commerce,Social media,Environmental science,Transportation,Education,Cybersecuruty,Government
 ## Correlation Vs. Causation
+### Correlaation refers to the statistical relationship between two or more variables.When two variables are correlated,it means that as one  variable changes, the other variable also cjanges in a predictable way
+### Causation refers to the relationship between two variables where one variable directly affects the other variable
 ## Ethics in AI
+### Bias and fairness, Transperancy and Explainability, Privacy and Data protection, Accountability and Responsability, Human values and Dignity
 
