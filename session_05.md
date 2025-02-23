@@ -9,7 +9,9 @@
 ### AI Winter
 ### DARPA Grand Challenge 2005
 ### ImageNet 2012
-### 2024 Nobel Prize in Physics - John Hopfield & Geoffrey Hinton for their pioneering work in the development of artificial neural networks and thier applications in physics
+### 2024 Nobel Prize in Physics - John Hopfield![image](https://github.com/user-attachments/assets/0ce49e31-ba85-4c62-ac2e-cbdcf65dcbe9)
+ & Geoffrey Hinton![image](https://github.com/user-attachments/assets/db1a5287-77dd-4f06-83aa-6edeb48b55f0)
+ for their pioneering work in the development of artificial neural networks and thier applications in physics 
 ### Deepseek- An AI revolution from China
 ## Key Deciding Factors of Growth of AI
 ### Advances in computing power
