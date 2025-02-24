@@ -1,4 +1,11 @@
 # IT Foundation for Data Science 2
+## Software Development Lifecycle (SDLC)
+### 1.Required analysis 
+### 2.Design phase
+### 3.Development phase
+### 4.Testing and deployment phadet
+### 5.Maintenance phase 
+
 
 ## Project Management using JIRA
 ### Platform independent tool
