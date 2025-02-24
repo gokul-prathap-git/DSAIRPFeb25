@@ -3,7 +3,7 @@
 ### 1.Required analysis 
 ### 2.Design phase
 ### 3.Development phase
-### 4.Testing and deployment phadet
+### 4.Testing and deployment phase
 ### 5.Maintenance phase 
 
 
