@@ -1,13 +1,12 @@
 # Object Oriented Programming (OOP)
 
 ## Class
-### Defining classes
+### Basic Class Definition
+### Class Attibutes
+### Class Functions
 
 
 ## Object
 ### Creating objects of a particular class
-
-### Attributes of Objects
-### Functions of Objects
 
 ### Inheritance
