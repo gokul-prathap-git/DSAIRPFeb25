@@ -25,7 +25,7 @@
 ### Null Hypothesis
 ### Alternate Hypothesis
 ### Significance Level (α)
-- Typically used values are 0.05 and 0.01 (medicine)
+- Typically used values are 0.0 (e.g. e-commerce  ) and 0.01 (e.g in fileds like medicine)
 ### P-value
 
 ## Z-test
