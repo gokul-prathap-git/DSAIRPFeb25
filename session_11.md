@@ -9,7 +9,7 @@
 
 ## Population
 ## Sample
-### Why do we need sampling
+### Why do we need sampling ?
 #### Sampling bias
 #### Types of sampling
 ### Sampling Distribution
