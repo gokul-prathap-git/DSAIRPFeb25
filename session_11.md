@@ -111,6 +111,10 @@ The steps are as follows
 5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
 6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
 
+Sample Data 
+- Brand A: 49.5, 50.1, 49.8,50.3, 50
+- Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
+
 ### Paired Sample T-test
 - Compares means from the same group at different times (before/after)
 
