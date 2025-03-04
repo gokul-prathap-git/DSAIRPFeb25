@@ -10,6 +10,8 @@
 ## Population
 ## Sample
 ### Why do we need sampling
+#### Sampling bias
+#### Types of sampling
 ### Sampling Distribution
 - Probability distribution
 - Area under the curve
