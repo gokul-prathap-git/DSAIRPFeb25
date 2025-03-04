@@ -21,12 +21,17 @@
 ## Hypothesis Testing
 ### Null Hypothesis
 ### Alternate Hypothesis
-### P-value
 ### Significance Level (α)
-
+- Typically used values are 0.05 and 0.01 (medicine)
+### P-value
 
 ## Z-test
 A Z-test is used to compare means when the sample size is large $n>30$ and the population variance is known. It follows the standard normal distribution ($Z$-distribution).
+The steps to do this as follows
+1. State the Null Hypothesis
+2. State the Alternate Hypothesis
+3. Choose Your Significance level ($\alpha$)
+4. Calculate Your Z-test Statistic
 
 $Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
 
@@ -35,25 +40,71 @@ $Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
 - $\sigma$ = population standard deviation
 - $n$ = sample size
 
-### [Z-Table](https://math.arizona.edu/~rsims/ma464/standardnormaltable.pdf)
-- Finding p-value using Z-table
+5. Find p-value using [Z-Table](https://math.arizona.edu/~rsims/ma464/standardnormaltable.pdf) and Z-test statistic computed
+6. if Z-test Statistic<p-value, then we fail to reject null Hypothesis
+7. There are one-tailed and two-tailed tests
 
 ## T-test
-## [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)
+- We need T-test because population standard deviation $\sigma$ is not always available
+- Here we will be computing T-test statistic (based on the problem statement and type of t-test)
+
+
+| **Type of T-test**        | **Null Hypothesis**                                        | **Alternate Hypothesis**                                       | **Degrees of Freedom** |
+|---------------------------|------------------------------------------------------------|----------------------------------------------------------------|------------------------|
+| One Sample t-test         | The sample mean is equal to the reference value            | The sample mean is not equal to the reference value            | $df = n-1$             |
+| Independent Sample t-test | The mean values in both groups are the same                | The mean values in both groups are not equal                   | $df = n_1+n_2-2$       |
+| Paired Samples t-test     | The mean value of the difference between the pairs is zero | The mean value of the difference between the pairs is not zero | $df = n-1$             |
+
 ### One Sample T-test
 Compares the sample mean to a known population mean
+
+The steps are as follows
+
+1. State the Null Hypothesis
+2. State the Alternate Hypothesis
+3. Choose Your Significance level ($\alpha$)
+4. Calculate Your T-test Statistic
 
 $t=\dfrac{\bar{x}-\mu}{\left(\frac{s}{\sqrt{n}}\right)} \nonumber$
 
 - $\bar{x}$ = sample mean
 - $\mu$ = population mean
 - $s$ = sample standard deviation
+
+$s = \sqrt{\frac{1}{n-1} \sum_{i=1}^N (x_i - \overline{x})^2}$
 - $n$ = sample size
+5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
+6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
 
 ### Independent Sample T-test
-- Compares means of two independent groups
+
+Compares means of two independent groups
+
+The steps are as follows
+
+1. State the Null Hypothesis
+2. State the Alternate Hypothesis
+3. Choose Your Significance level ($\alpha$)
+4. Calculate Your T-test Statistic
+
+- $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{\sqrt{(\dfrac{s_{1}^2}{n_{1}}+\dfrac{s_{2}^2}{{n_{2}}}})}$; for one tailed
+- $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{S_p\sqrt{(\dfrac{1}{n_{1}}+\dfrac{1}{{n_{2}}}})}$; for two tailed
+  - $S_p = \frac{(n_1-1){s_1}^2+(n_2-1){s_2}^2}{n_1+n_2-2}$; known as pooled standard deviation
+
+- $\bar{x_1}$ = sample mean of group 1
+- $\bar{x_2}$ = sample mean of group 2
+- $s_1$ = sample standard deviation of group 1
+- $s_2$ = sample standard deviation of group 2
+- $n_1$ = sample size of group 1
+- $n_2$ = sample size of group 2
+
+5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
+6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
 
 ### Paired Sample T-test
 - Compares means from the same group at different times (before/after)
 
 ## F-Distribution
+
+## Reference 
+1 . [Data Lab Tutorial](https://datatab.net/tutorial/hypothesis-testing)
