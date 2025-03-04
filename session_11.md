@@ -28,6 +28,7 @@
 - Typically used values are 0.05 (e.g. e-commerce  ) and 0.01 (e.g in fileds like medicine)
 ### P-value
 
+# Major Statistical Tests
 ## Z-test
 A Z-test is used to compare means when the sample size is large $n>30$ and the population variance is known. It follows the standard normal distribution ($Z$-distribution).
 The steps to do this as follows
