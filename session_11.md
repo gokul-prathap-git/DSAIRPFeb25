@@ -48,6 +48,12 @@ $Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
 6. if Z-test Statistic<p-value, then we fail to reject null Hypothesis
 7. There are one-tailed and two-tailed tests
 
+## Z-test Practice Problem
+A particular companies chocolate bars are supposed to have an average weight of 50 grams according to the maufacturer.
+We want to test if a sample of chocolate bars deviates significantly from this weight.
+Data: 50.8, 49.5, 50.2, 51, 49.7, 50.3, 49.8, 50.5, 49.6, 50.1
+Population standard deviation: 1.5 grams (assumed based on production tolerance)
+
 ## T-test
 - We need T-test because population standard deviation $\sigma$ is not always available
 - Here we will be computing T-test statistic (based on the problem statement and type of t-test)
