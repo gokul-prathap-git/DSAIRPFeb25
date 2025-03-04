@@ -3,8 +3,9 @@
 ## Why do we need Inferential Statistics? 
 - Correlation Vs. Causation
 - Controlled Experiment
-    - A/B Testing
-    - Medical Trials
+    - Examples 
+        - A/B Testing
+        - Medical Trials
 
 ## Population
 ## Sample
