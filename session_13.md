@@ -21,7 +21,7 @@
     - $a \cdot b = \Vert a\Vert \Vert b \Vert \cos \theta$
     - Angle between two vectors
     - Concept of orthogonality
-- General equation of line/plan
+- General equation of line/plain
     - why weights of general forms normal to the plane
 
 - Operations on vectors
