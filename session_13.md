@@ -33,8 +33,5 @@
 - Inverse of Matrix
 - Eigen values and eigen vectors
 - Matrix Factorization
-    - UV
-    - LU
-    - QR
-    - SVD
+    - SVD/UV
  		
