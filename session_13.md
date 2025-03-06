@@ -122,12 +122,13 @@
 Compute $AB$ and $BA$. Are they equal?
 
 18. Find the inverse of  
-    $A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$
+    $$ A = \[ 
+        \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} 
+        
+        \]$ $
 if it exists.
 
 19. Compute the eigenvalues and eigenvectors of  
-    $A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$.
+    $$ A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} $$.
 
-
-$ \begin{pmatrix} a & b \\ c & d \end{pmatrix} $
 
