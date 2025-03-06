@@ -117,18 +117,15 @@
 ---
 
 ## 8. Matrix Transformations
-17. If  $A = \begin{bmatrix} 2 & 1\\ 0 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & 4 \\ 2 & 0 \end{bmatrix}$
+17. If  $$A = \begin{bmatrix} 2 & 1\\ 0 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & 4 \\ 2 & 0 \end{bmatrix}$$
 
 Compute $AB$ and $BA$. Are they equal?
 
 18. Find the inverse of  
-    $$ A = \[ 
-        \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} 
-        
-        \]$ $
-if it exists.
+    $$A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$$ 
+    if it exists.
 
 19. Compute the eigenvalues and eigenvectors of  
-    $$ A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} $$.
+    $$A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$$
 
 
