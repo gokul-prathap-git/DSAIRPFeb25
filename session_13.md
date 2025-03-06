@@ -26,7 +26,7 @@
     - why weights of general forms normal to the plane
 
 - Operations on vectors
-    - Projection of a vector onto another
+    - Projection of a vector $a$ into vector $b$ 
     - $d = \frac{a \cdot b}{\Vert b \Vert} = \frac{\Vert a \Vert \Vert b \Vert \cos \theta}{\Vert b \Vert} = \Vert a \Vert \cos \theta$
 
 - Matrices as Transformation on vectors
