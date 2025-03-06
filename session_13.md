@@ -76,7 +76,7 @@
 ## 4. Distance and Norms
 7. Compute the **L1 norm** and **L2 norm** of the vector $v = (3, -4)$.
 
-8. Compute the Euclidean distance between points $P(1,2) $ and $Q(4,6)$.
+8. Compute the Euclidean distance between points $P(1,2)$ and $Q(4,6)$.
 
 9. Find the Manhattan distance between $(3,5)$ and $(-1,2)$.
 
