@@ -58,3 +58,36 @@ Suppose and email is classified as spam if it contains the word "money". Past st
 - 60% spam emails contains the word money
 
 Find $P(Spam|money)$ and $P(Spam|money')$
+
+
+# Problem 3 : Sample Space
+- List the sample space for tossing two coins 
+- What is the sample space for rolling two dice?
+- How many possible outcomes exist in selecting a card from a standard deck of 52 playing cards?
+- If an experiment consists of flipping a coin and rolling a die, what is the total number of outcomes?
+
+# Problem 4 :Dependent and Independent Events**
+- A bag contains 4 red balls and 6 blue balls. If you pick one ball and then another with replacement, are the events independent or dependent?
+
+
+# Problem 5: Joint and Marginal Probability**
+- A dataset shows that 40% of customers purchase Product A, 25% purchase Product B, and 15% purchase both. What is the probability that a customer purchases at least one product? 
+
+
+
+
+
+
+# Problem 6:  Expected Value**
+- A lottery ticket costs ₹10 and has a 1% chance of winning ₹500. What is the expected value of the ticket?**  
+  
+
+# Problem 7:  Entropy & Information Theory**
+- What is the entropy of a fair coin toss?**  
+ $H(X) = - (0.5 \log_2 0.5 + 0.5 \log_2 0.5)$ = 1
+
+- A probability distribution is $P(X) = (0.8,0.2)$. Calculate its entropy 
+
+
+
+
