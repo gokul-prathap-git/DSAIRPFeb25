@@ -1,7 +1,7 @@
 # Frequentist definition of probability
 
 # Law of Large numbers
-- The law of large numbers states that the more experiments we run, the closer we will tend to get tot the expected probability
+- The law of large numbers states that the more experiments we run, the closer we will tend to get tot the expected probability.
 
 # Events and Sample Spaces
 - Coin Toss example
