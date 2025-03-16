@@ -8,9 +8,59 @@
 - Dice throwing example
 
 # Dependent and Independent Events
-# Joint probability
-# Marginal Probability
+Dependent Events: These are events where the occurrence of one event affects the probability of the other. For example, drawing two cards from a deck without replacing the first card— the outcome of the first draw influences the second draw.
 
+𝑃
+(
+𝐴
+∩
+𝐵
+)
+=
+𝑃
+(
+𝐴
+)
+⋅
+𝑃
+(
+𝐵
+∣
+𝐴
+)
+Independent Events: These are events where the occurrence of one event does not affect the probability of the other. For instance, rolling a die and flipping a coin are independent actions.
+
+𝑃
+(
+𝐴
+∩
+𝐵
+)
+=
+𝑃
+(
+𝐴
+)
+⋅
+𝑃
+(
+𝐵
+)
+# Joint probability
+The probability of two events occurring together. It’s denoted as 
+𝑃
+(
+𝐴
+∩
+𝐵
+)
+, meaning the probability of 
+𝐴
+ and 
+𝐵
+ happening simultaneously.
+# Marginal Probability
+The probability of a single event occurring, irrespective of any other event. It’s essentially the sum of joint probabilities over all possible outcomes of the other variable(s).
 # Conditional Probability
 - Similarity to Hypothesis testing
 
@@ -20,7 +70,28 @@
 - Posterior
 	
 # Difference between conditional probability and Bayes theorem
-
+Conditional probability is about calculating 
+𝑃
+(
+𝐴
+∣
+𝐵
+)
+, while Bayes' theorem is a tool to reverse 
+𝑃
+(
+𝐴
+∣
+𝐵
+)
+ into 
+𝑃
+(
+𝐵
+∣
+𝐴
+)
+ using prior and marginal probabilities.
 # Expected value
 
 # Essense of Information theory
