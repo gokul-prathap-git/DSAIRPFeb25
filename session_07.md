@@ -43,6 +43,15 @@ elif x == 10:
 else:
     print("x is less than 10")
 ```
+A more general format would be
+```python
+if condition:
+    pass
+elif condition:
+    pass
+else:
+    pass
+```
 ## Nested IFs
 You can also nest conditional statements for more complex checks
 ```python
@@ -58,9 +67,24 @@ if x > 10:
 # Loops
 
 ## For Loop
+For loops can be applied on any sequential object (list, string, tuple, range, etc.)
+```python
+for char in "Hello":
+    print(char)
+```
+
+```python
+for i in range(10):
+    print(i)
+```
 
 ## While Loop
-
+```python
+i = 1
+while i<=10:
+  print(i)
+  i = i+1
+```
 ### Continue
 ### Break
 
