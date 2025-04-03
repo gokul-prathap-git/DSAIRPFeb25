@@ -3,7 +3,7 @@
 # KNN
 # Hyperparameters
 
-
+# Models and Tasks
 | **Model**           | **Regression** | **Classification** |
 |---------------------|----------------|--------------------|
 | Linear Regression   | Yes            | No                 |
