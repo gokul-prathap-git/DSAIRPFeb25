@@ -10,3 +10,6 @@
 | Logistic Regression | No             | Yes                |
 | KNN                 | Yes            | Yes                |
 | Naive Bayes         | No             | Yes                |
+| SVM                 | Yes            | Yes                |
+| Decision Tree       | Yes            | Yes                |
+| Random Forest       | Yes            | Yes                |
