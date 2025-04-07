@@ -5,5 +5,6 @@
 - Random Forest is a example of Bagging
 - Trivially parallelizable
 # Boosting
+- Low variance and High Bias base models
 # Stacking
 # Cascading
