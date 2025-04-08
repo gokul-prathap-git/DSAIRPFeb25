@@ -1,6 +1,6 @@
 # Clustering
 - An unsupervised learning techniques
-- What makes a good cluster
+- What makes a good cluster ?
     - Inter-cluster distance
     - Intra-cluster distance
 - Major types of clustering
