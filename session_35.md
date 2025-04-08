@@ -9,4 +9,4 @@
     - A tree like diagram that records the sequences of merges or splits
     
 ## Divisive Hierarchical Clustering
-- Starts from one big cluster and splits
+- Starts from one big cluster and then splits
