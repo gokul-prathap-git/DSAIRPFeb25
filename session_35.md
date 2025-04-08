@@ -1,5 +1,9 @@
 # Clustering
 - An unsupervised learning techniques
+- What makes a good cluster
+    - Inter-cluster distance
+    - Intra-cluster distance
+- Major types of clustering
     - K-Means
     - Hierarchical Clustering
     - DBSCAN
