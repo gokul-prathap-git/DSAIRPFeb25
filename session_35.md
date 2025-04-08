@@ -1,3 +1,9 @@
+# Clustering
+- An unsupervised learning techniques
+    - K-Means
+    - Hierarchical Clustering
+    - DBSCAN
+
 # K-Means Clustering
 - Need to specify the number of clusters
 ## K-Means Code
@@ -40,9 +46,21 @@ y_hc = agg_hc.fit_predict(X)
 - Starts from one big cluster and then splits
 
 
-## Silhouette Score
-### Silhouette Score Code
+# Silhouette Score
+## Silhouette Score Code
 ```python
 from sklearn.metrics import silhouette_score
 silhouette_score = silhouette_score(X,y_hc)
+```
+
+
+# DBSCAN: Density Based Spatial Clustering of Applications with Noise
+- Able to handle both dense regions and sparse regions
+
+## DBSCAN Code
+```python
+from sklearn.cluster import DBSCAN
+db = DBSCAN(eps=0.3, min_samples=10)
+db.fit(X)
+labels = db.labels_
 ```
